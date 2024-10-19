@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "seat_booking",
     "short_name": "seat_booking",
+=======
+    "name": "counter_app",
+    "short_name": "counter_app",
+>>>>>>> 0c6de71 (16-10-24)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

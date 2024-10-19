@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="seat_booking"
+=======
+        android:label="counter_app"
+>>>>>>> 0c6de71 (16-10-24)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

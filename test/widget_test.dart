@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:seat_booking/main.dart';
+=======
+import 'package:counter_app/main.dart';
+>>>>>>> 0c6de71 (16-10-24)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

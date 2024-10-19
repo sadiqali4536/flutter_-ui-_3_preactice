@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"seat_booking", origin, size)) {
+=======
+  if (!window.Create(L"counter_app", origin, size)) {
+>>>>>>> 0c6de71 (16-10-24)
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);
